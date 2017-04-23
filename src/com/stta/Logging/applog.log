@@ -1,0 +1,27 @@
+2017-04-23 16:52:16,973 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:52:16,978 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:52:16,978 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:52:16,979 - rootLogger - INFO - Execution started for SuiteOneBase.
+2017-04-23 16:52:17,071 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:52:17,071 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:52:17,072 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:52:17,072 - rootLogger - INFO - SuiteOneCaseOne : Execution started.
+2017-04-23 16:52:25,192 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-04-23 16:52:51,481 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 1 as PASS In excel.
+2017-04-23 16:52:54,758 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 2 as PASS In excel.
+2017-04-23 16:52:54,773 - rootLogger - INFO - SuiteOneCaseOne : Reporting test case as PASS In excel.
+2017-04-23 16:52:54,805 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:52:54,805 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:52:54,805 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:53:02,340 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-04-23 16:53:47,969 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:53:47,970 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:53:47,970 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:53:47,981 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:53:47,982 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:53:47,982 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:53:56,142 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-04-23 16:54:07,337 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-04-23 16:54:07,337 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-04-23 16:54:07,338 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-04-23 16:54:16,866 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
